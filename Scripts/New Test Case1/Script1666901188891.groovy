@@ -17,13 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.navigateToUrl('https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf')
+WebUI.openBrowser('https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf')
 
 WebUI.setText(findTestObject('Object Repository/Page_TCDD Tamaclk A/input_Rezervasyon_nereden'), 'Polatlı YHT')
 
 WebUI.setText(findTestObject('Object Repository/Page_TCDD Tamaclk A/input_Gidi-Dn_nereye'), 'İzmit YHT')
-
-WebUI.openBrowser('')
 
 WebUI.click(findTestObject('Object Repository/Page_TCDD Tamaclk A/div_function detectmob()   if(testetmetrue)_95102c'))
 
@@ -32,4 +30,8 @@ WebUI.setText(findTestObject('Object Repository/Page_TCDD Tamaclk A/input_Rezerv
 WebUI.click(findTestObject('Object Repository/Page_TCDD Tamaclk A/ul_Bilet    SatRezervasyonNereden Gidi Tari_d4c929'))
 
 WebUI.click(findTestObject('Object Repository/Page_TCDD Tamaclk A/span_Ara'))
+
+WebUI.delay(5)
+
+WebUI.closeBrowser()
 
