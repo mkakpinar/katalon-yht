@@ -17,21 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf')
+WebUI.openBrowser('')
 
-WebUI.setText(findTestObject('Object Repository/Page_TCDD Tamaclk A/input_Rezervasyon_nereden'), 'Polatlı YHT')
+WebUI.navigateToUrl('https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf')
 
-WebUI.setText(findTestObject('Object Repository/Page_TCDD Tamaclk A/input_Gidi-Dn_nereye'), 'İzmit YHT')
+WebUI.setText(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/input_Rezervasyon_nereden'), 'Polatlı YHT')
 
-WebUI.click(findTestObject('Object Repository/Page_TCDD Tamaclk A/div_function detectmob()   if(testetmetrue)_95102c'))
+WebUI.setText(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/input_Gidi-Dn_nereye'), 'İzmit YHT')
 
-WebUI.setText(findTestObject('Object Repository/Page_TCDD Tamaclk A/input_Rezervasyon_trCalGid_input'), '28.10.2022')
+WebUI.setText(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/input_Rezervasyon_trCalGid_input'), '28.10.2022')
 
-WebUI.click(findTestObject('Object Repository/Page_TCDD Tamaclk A/ul_Bilet    SatRezervasyonNereden Gidi Tari_d4c929'))
+WebUI.click(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/body_Ltfen Bekleyiniz.var context   var lis_060e9c'))
 
-WebUI.click(findTestObject('Object Repository/Page_TCDD Tamaclk A/span_Ara'))
+WebUI.click(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/span_Ara'))
 
 WebUI.delay(5)
 
-WebUI.closeBrowser()
+try {
+    WebUI.verifyElementText(findTestObject('asdnew/Page_TCDD Tamaclk A/label_22 Pulman  (Ekonomi) (0)_1'), '2+2 Pulman (Ekonomi) (0)')
+}
+catch (Exception e) {
+    WS.sendRequest(findTestObject('telegram request'))
+} 
+finally { 
+    WebUI.closeBrowser()
+}
 

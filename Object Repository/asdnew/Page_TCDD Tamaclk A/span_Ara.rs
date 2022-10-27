@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ara</name>
+   <tag></tag>
+   <elementGuidId>6703f9c2-db99-4dd4-acf5-9c229b046def</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-text.ui-c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnSeferSorgula']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d4d4acd3-36e7-499b-ab42-da5c7c39b56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>6e8d1167-79e0-4db6-94b7-171acd3a8c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ara</value>
+      <webElementGuid>8fb7f623-cbea-4be3-b0bf-fddf4b3829fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnSeferSorgula&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>fe2d5885-ae6d-4222-ada5-d81f1d604eda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnSeferSorgula']/span</value>
+      <webElementGuid>595dba48-8aee-453b-b330-e48024994acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gidiş-Dönüş'])[1]/following::span[7]</value>
+      <webElementGuid>f5e9b01c-9e06-462d-ade3-6f54517c7eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tek Yön'])[1]/following::span[8]</value>
+      <webElementGuid>e83ca0fd-2e6e-4b33-9ce6-28d99755c865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Üye Girişi'])[1]/preceding::span[1]</value>
+      <webElementGuid>a5650ba8-4fc6-4d51-8999-9af3a7f08a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Üye Girişi'])[2]/preceding::span[2]</value>
+      <webElementGuid>38186dfb-9fa2-4a20-8862-1930068d3ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ara']/parent::*</value>
+      <webElementGuid>f8cae98d-f350-47a6-bcfd-c60045a0eb67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>de1ee830-c7bc-49d7-88f9-0c0fe7806d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ara' or . = 'Ara')]</value>
+      <webElementGuid>3ecef814-9e57-4f73-b25f-136ead2a347c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

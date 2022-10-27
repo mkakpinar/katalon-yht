@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_22 Pulman  (Ekonomi) (0)_1_2</name>
+   <tag></tag>
+   <elementGuidId>31161cd5-196a-427d-9f9b-6e623bdce19e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='mainTabView:gidisSeferTablosu:4:j_idt109:0:somVagonTipiGidis1_label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3d38e672-dc85-4d76-94c7-e2fa59b63fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mainTabView:gidisSeferTablosu:4:j_idt109:0:somVagonTipiGidis1_label</value>
+      <webElementGuid>a1f1e7d3-084c-40fc-ab66-049480bffead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>29f7108a-213a-4d51-a62a-53aeb87caa81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2+2 Pulman  (Ekonomi) (0)</value>
+      <webElementGuid>92705d25-ef67-442d-a30e-ef21dc0d145a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainTabView:gidisSeferTablosu:4:j_idt109:0:somVagonTipiGidis1_label&quot;)</value>
+      <webElementGuid>4f16f2bc-f250-4da7-98c9-1cb4333d2fe4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='mainTabView:gidisSeferTablosu:4:j_idt109:0:somVagonTipiGidis1_label']</value>
+      <webElementGuid>97bd51e3-2bfb-4ecd-9bc1-df055b98948f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainTabView:gidisSeferTablosu:4:j_idt109:0:somVagonTipiGidis1']/label</value>
+      <webElementGuid>df9c375e-0f6e-4687-80b8-3d036222e28e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Esnek'])[5]/following::label[1]</value>
+      <webElementGuid>4b234a0b-6c85-40af-aae9-b648b3892419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Standart'])[5]/following::label[1]</value>
+      <webElementGuid>be2bc21a-f23b-4d3f-89c1-5d0310f8c691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₺ 171,00'])[4]/preceding::label[1]</value>
+      <webElementGuid>c8a9051b-304e-4509-b6e7-acd6f34183a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seç'])[5]/preceding::label[2]</value>
+      <webElementGuid>dd7b911c-c7aa-498c-a655-3520ac988bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[5]/div/label</value>
+      <webElementGuid>21743908-eb14-4d0c-a384-7cc712f69f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'mainTabView:gidisSeferTablosu:4:j_idt109:0:somVagonTipiGidis1_label' and (text() = '2+2 Pulman  (Ekonomi) (0)' or . = '2+2 Pulman  (Ekonomi) (0)')]</value>
+      <webElementGuid>1a4329db-1af9-4f9b-afbb-592a72f3cf00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
