@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_zmit YHT</name>
+   <tag></tag>
+   <elementGuidId>db28d79e-c962-418c-a7a6-b050b2dd9bbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-active-menuitem</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-active-menuitem']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>521a3952-1c0d-4763-aa17-00b6f6d8f66e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-corner-all ui-state-hover</value>
+      <webElementGuid>9fd70da6-3714-4c8e-96d3-069b0fe7ee9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>fcbac4af-8527-441a-9f95-500612813b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ui-active-menuitem</value>
+      <webElementGuid>04823565-4bd9-46ad-9ab1-54336b721da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>İzmit YHT</value>
+      <webElementGuid>654d34c1-39ff-4c09-9bd8-3e12f075486f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-active-menuitem&quot;)</value>
+      <webElementGuid>f48824da-54cc-47ad-8a33-dafb121c7b06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ui-active-menuitem']</value>
+      <webElementGuid>e80dff13-a389-40fb-b8e3-09e4736cbb1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'İzmit YHT')]</value>
+      <webElementGuid>2488e0a2-7caf-4ce1-bb60-eac243878cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='İzmir (Basmane)'])[1]/following::a[1]</value>
+      <webElementGuid>b00e04b8-7ea2-406e-b370-fa839edb5805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Polatlı YHT'])[1]/following::a[2]</value>
+      <webElementGuid>fe463445-0cb1-4870-a4fc-e8d7b3b655e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Çıkış ve Varış İstasyonlarını Seçiniz'])[1]/preceding::a[1]</value>
+      <webElementGuid>4e0d9a64-c1cf-44dd-8c62-785eec79a64d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='İzmit YHT']/parent::*</value>
+      <webElementGuid>1c540fd1-0e11-4335-8427-027600f928e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[2]/a</value>
+      <webElementGuid>fc35f8e5-6a53-4e03-8082-6ce9591c1c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ui-active-menuitem' and (text() = 'İzmit YHT' or . = 'İzmit YHT')]</value>
+      <webElementGuid>ebbe3514-0b5e-49a9-a697-a6bab503a13c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Polatl YHT</name>
+   <tag></tag>
+   <elementGuidId>4937e539-3771-4a23-8e05-a861653a0517</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-active-menuitem</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-active-menuitem']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a534faf0-0864-4ec8-9fbd-7f050e187292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-corner-all ui-state-hover</value>
+      <webElementGuid>b17c7ed6-b651-4d63-80cc-a3ac44e46f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>4800850a-078c-492e-b227-f417f7467147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ui-active-menuitem</value>
+      <webElementGuid>302e031d-741d-4300-b086-fd7b0f023bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Polatlı YHT</value>
+      <webElementGuid>ac337ed0-d0b3-437a-84f9-f56414b8942a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-active-menuitem&quot;)</value>
+      <webElementGuid>8d463ff3-c949-4adb-aa8d-cd5e75222f0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ui-active-menuitem']</value>
+      <webElementGuid>e3f3a444-ab57-4864-af33-4afe8d83c0cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Polatlı YHT')]</value>
+      <webElementGuid>6f73d47b-77f9-4d15-a8b0-78bf7bccb36b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Polatlı'])[1]/following::a[1]</value>
+      <webElementGuid>6153c046-a824-479a-96de-a4b189cfb943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='İstasyon-Tren Bilgileri'])[2]/following::a[2]</value>
+      <webElementGuid>d17d3402-fcc7-46dc-a538-3de82edfc88f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Çıkış ve Varış İstasyonlarını Seçiniz'])[1]/preceding::a[1]</value>
+      <webElementGuid>fe1fbc5b-e4d3-4a29-9eea-1eb152795b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Polatlı YHT']/parent::*</value>
+      <webElementGuid>73b9e366-c963-4c09-bc1c-898304140b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/ul/li[2]/a</value>
+      <webElementGuid>f37507c2-a0d1-4d96-abe5-77b155fe7524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ui-active-menuitem' and (text() = 'Polatlı YHT' or . = 'Polatlı YHT')]</value>
+      <webElementGuid>48274d33-056d-4df8-b540-da5f9f7b187b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
