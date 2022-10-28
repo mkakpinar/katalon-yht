@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>a8379849-c463-489b-8ccb-68d0334c2dbb</webElementGuid>
+      <webElementGuid>983820ef-e72b-415d-a69d-f198af244b98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mainTabView:gidisSeferTablosu:3:j_idt109:0:somVagonTipiGidis1_label</value>
-      <webElementGuid>28203e3b-cf7e-4aa4-99aa-8f3e3df84a98</webElementGuid>
+      <webElementGuid>dcfb97da-8a27-4ea4-a032-a2388007d33b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
-      <webElementGuid>4a7f5b08-9851-4536-9863-a4656f20dadb</webElementGuid>
+      <webElementGuid>5a7a8b90-c8d6-4551-a094-8069f0a40830</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2+2 Pulman  (Ekonomi) (0)</value>
-      <webElementGuid>99ca84b3-54f9-46f4-9eb1-9fea04838c32</webElementGuid>
+      <webElementGuid>822e7c2e-bbd3-45a8-b2d7-abcb658feb79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,14 +54,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mainTabView:gidisSeferTablosu:3:j_idt109:0:somVagonTipiGidis1_label&quot;)</value>
-      <webElementGuid>5549a6b6-aa96-41ef-a9ae-dd9efaa68b2b</webElementGuid>
+      <webElementGuid>fbbe11ea-e700-4d52-81d6-20d8205ecded</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//label[@id='mainTabView:gidisSeferTablosu:3:j_idt109:0:somVagonTipiGidis1_label']</value>
-      <webElementGuid>b6265769-40d3-4313-8553-9d4b9109c060</webElementGuid>
+      <value>//label[@id='mainTabView:gidisSeferTablosu:2:j_idt109:0:somVagonTipiGidis1_label']</value>
+      <webElementGuid>cee6bd1b-8d58-4a06-983a-6253be3a4068</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
