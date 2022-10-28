@@ -33,32 +33,28 @@ WebUI.click(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/span_Ar
 
 WebUI.delay(2)
 
-
-
-urlmatch = WebUI.verifyMatch(WebUI.getUrl(), 'https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf?expired=true',
-	false, FailureHandling.OPTIONAL)
-
+urlmatch = WebUI.verifyMatch(WebUI.getUrl(), 'https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf?expired=true', 
+    false, FailureHandling.OPTIONAL)
 
 if (urlmatch == true) {
-		
-	WebUI.navigateToUrl('https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf')
-	
-	WebUI.setText(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/input_Rezervasyon_nereden'), 'Polatlı YHT')
-	
-	WebUI.setText(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/input_Gidi-Dn_nereye'), 'İzmit YHT')
-	
-	WebUI.setText(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/input_Rezervasyon_trCalGid_input'), '28.10.2022')
-	
-	WebUI.click(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/body_Ltfen Bekleyiniz.var context   var lis_060e9c'))
-	
-	WebUI.click(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/span_Ara'))
-	
+    WebUI.navigateToUrl('https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf')
+
+    WebUI.setText(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/input_Rezervasyon_nereden'), 'Polatlı YHT')
+
+    WebUI.setText(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/input_Gidi-Dn_nereye'), 'İzmit YHT')
+
+    WebUI.setText(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/input_Rezervasyon_trCalGid_input'), '28.10.2022')
+
+    WebUI.click(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/body_Ltfen Bekleyiniz.var context   var lis_060e9c'))
+
+    WebUI.click(findTestObject('Object Repository/asdnew/Page_TCDD Tamaclk A/span_Ara'))
 }
 
 WebUI.delay(5)
 
 try {
-    WebUI.verifyElementText(findTestObject('asdnew/Page_TCDD Tamaclk A/label_22 Pulman  (Ekonomi) (0)_1'), '2+2 Pulman (Ekonomi) (0)')
+	WebUI.verifyElementText(findTestObject('Page_TCDD Tamaclk A/new_14'), '2+2 Pulman (Ekonomi) (0)')
+	
 }
 catch (Exception e) {
     WS.sendRequest(findTestObject('telegram request'))
@@ -66,4 +62,5 @@ catch (Exception e) {
 finally { 
     WebUI.closeBrowser()
 }
+
 
